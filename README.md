@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Aaditya  
-A fresh BCA Grad. <br> "Polishing myself today to shine tomorrow." <br>
+A fresh BCA Grad. <br> "Polishing myself today to shine tomorrow." <br> <br>
 Learning:
 - Python
 - SQL
