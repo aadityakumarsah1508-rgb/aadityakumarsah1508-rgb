@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Aaditya  
+A fresh BCA Grad. "Polishing myself today to shine tomorrow"
+Learning:
+- Python
+- SQL
+- Data Structures & Algorithms
+
+Currently building:
+- Python practice repository
+- SQL practice repository
